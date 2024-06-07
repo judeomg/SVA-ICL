@@ -4,7 +4,7 @@ This is the source code to the paper "SVA-ICL: Improving LLM-based Software Vuln
 Learning and Bimodal Information". Please refer to the paper for the experimental details.
 
 # Approach
-
+![image](https://github.com/judeomg/SVA-ICL/blob/main/figs/SVA-ICL.png)
 
 
 ## About dataset.
